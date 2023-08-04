@@ -1,0 +1,29 @@
+.containerbtn button{
+    margin: 5px;
+}
+.btnt{
+    width: 100px;
+    height: 100%;
+    border-radius: 6px;
+    border-style: none;
+    color: white;
+    background-color: red;
+}
+
+.btnt:hover{
+    width: 100px;
+    height: 100%;
+    border-radius: 6px;
+    border-style: none;
+    color: white;
+    background-color: rgb(89, 0, 0);
+}
+.btn1,.btn2{
+    width: 40px;
+    height: 100%;
+    background-color: rgb(26, 69, 144);
+    color: white;
+    border-radius: 3px;
+    border-style: none;
+    
+}
